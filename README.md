@@ -19,7 +19,6 @@ Aplikasi berbasis web yang dirancang untuk memudahkan pengaduan dan pelaporan ma
 - **Frontend & UI:** HTML5, CSS3, JavaScript
 - **Backend:** PHP (Native)
 - **Database:** MySQL
-- **Desain UI/UX:** Figma
 
 ---
 
